@@ -1,1 +1,1 @@
-Small website announcing my gf's christmas gift
+Small website for announcing a christmas gift
